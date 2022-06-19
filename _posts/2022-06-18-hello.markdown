@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Hello persona (perché \"world\" mi sembra un po' esagerato)"
+date:   2022-06-18 12:03:18 +0200
+categories: sito
+---
+
+Se stai leggendo questo post, beh, grazie… però non credo ci troverai nulla di interessante! Anyway, su questo sitarello (molto molto _ello_) pubblicherò appunti e pensieri sparsi riguardanti tech e dintorni — ma non solo — buttati giù principalmente per il me del futuro. Ora non so… magari fra tante farneticazioni troverai qualche spunto interessante, ma non te lo posso garantire. :)   
